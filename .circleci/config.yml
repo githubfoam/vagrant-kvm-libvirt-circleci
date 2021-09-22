@@ -25,6 +25,5 @@ jobs:
             sudo make deploy-libvirt
           environment:
             TERM: xterm-256color
-            # sudo make deploy-vagrant
-            # sudo make deploy-boxes  
+
 
